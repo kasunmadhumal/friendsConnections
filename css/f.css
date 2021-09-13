@@ -1,0 +1,647 @@
+/* iPhone 12 Pro Mockup label */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.87%;
+right: 3.89%;
+top: 2.17%;
+bottom: 96.85%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.67%;
+right: 11.09%;
+top: 1.8%;
+bottom: 96.83%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.74%;
+right: 18.34%;
+top: 1.55%;
+bottom: 96.88%;
+
+background: #000000;
+
+
+/* 9:05 pm */
+
+position: absolute;
+width: 62px;
+height: 16px;
+left: 20.51px;
+top: 10.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Rectangle 89 */
+
+position: absolute;
+width: 375px;
+height: 52px;
+left: -0.49px;
+top: 769.62px;
+
+background: rgba(196, 196, 196, 0.4);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 167px;
+height: 168px;
+left: -13.49px;
+top: -73.38px;
+
+background: rgba(0, 215, 125, 0.17);
+
+
+/* Vector */
+
+position: absolute;
+left: 46%;
+right: 46%;
+top: 95.52%;
+bottom: 0.79%;
+
+background: #12C119;
+border-radius: 3px;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.34%;
+right: 11.33%;
+top: 96.14%;
+bottom: 1.4%;
+
+background: #12C119;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 164px;
+height: 166px;
+left: -74.49px;
+top: -17.38px;
+
+background: rgba(0, 215, 125, 0.17);
+
+
+/* Rectangle 90 */
+
+position: absolute;
+width: 312px;
+height: 173px;
+left: 32.51px;
+top: 231.62px;
+
+background: rgba(196, 196, 196, 0.18);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
+
+
+/* Ask from professionals */
+
+position: absolute;
+width: 291px;
+height: 38px;
+left: 32.51px;
+top: 188.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Where does the water come from that you use on your crops? How do you know the quality of the water? */
+
+position: absolute;
+width: 282px;
+height: 150px;
+left: 46.51px;
+top: 235.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Rectangle 91 */
+
+position: absolute;
+width: 98px;
+height: 47px;
+left: 246.51px;
+top: 419.62px;
+
+background: #00FA37;
+border-radius: 20px;
+
+
+/* Send */
+
+position: absolute;
+width: 68px;
+height: 40px;
+left: 261.51px;
+top: 422.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 37px;
+
+color: #FFFFFF;
+
+
+
+/* Related Questions */
+
+position: absolute;
+width: 232px;
+height: 38px;
+left: 32.51px;
+top: 466.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 92 */
+
+position: absolute;
+width: 375px;
+height: 78px;
+left: 0.51px;
+top: 37.62px;
+
+background: rgba(0, 215, 125, 0.34);
+
+
+/* Services */
+
+position: absolute;
+width: 133px;
+height: 45px;
+left: 120.51px;
+top: 54.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+color: #1458C7;
+
+
+
+/* What do you add to the soil before you plant a crop? */
+
+position: absolute;
+width: 326px;
+height: 31px;
+left: 34.51px;
+top: 522.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+
+color: #898080;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.27%;
+right: 76.4%;
+top: 96.14%;
+bottom: 1.4%;
+
+background: #12C119;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 65 */
+
+position: absolute;
+width: 187.5px;
+height: 30px;
+left: 0.51px;
+top: 117.62px;
+
+
+
+/* Rectangle 66 */
+
+position: absolute;
+width: 188px;
+height: 43px;
+left: 188.51px;
+top: 115.62px;
+
+background: rgba(196, 196, 196, 0.65);
+
+
+/* Get Help */
+
+position: absolute;
+width: 151px;
+height: 31px;
+left: 27.51px;
+top: 121.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+color: #008001;
+
+
+
+/* Market */
+
+position: absolute;
+width: 102px;
+height: 36px;
+left: 231.51px;
+top: 118.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #10A216;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 91.87%;
+right: 3.89%;
+top: 2.17%;
+bottom: 96.85%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.67%;
+right: 11.09%;
+top: 1.8%;
+bottom: 96.83%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.74%;
+right: 18.34%;
+top: 1.55%;
+bottom: 96.88%;
+
+background: #000000;
+
+
+/* 9:05 pm */
+
+position: absolute;
+width: 62px;
+height: 16px;
+left: 20.51px;
+top: 10.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 375px;
+height: 52px;
+left: -0.49px;
+top: 769.62px;
+
+background: rgba(196, 196, 196, 0.4);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 167px;
+height: 168px;
+left: -13.49px;
+top: -73.38px;
+
+background: rgba(0, 215, 125, 0.17);
+
+
+/* Vector */
+
+position: absolute;
+left: 46%;
+right: 46%;
+top: 95.52%;
+bottom: 0.79%;
+
+background: #12C119;
+border-radius: 3px;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.34%;
+right: 11.33%;
+top: 96.14%;
+bottom: 1.4%;
+
+background: #12C119;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 164px;
+height: 166px;
+left: -74.49px;
+top: -17.38px;
+
+background: rgba(0, 215, 125, 0.17);
+
+
+/* Rectangle 87 */
+
+position: absolute;
+width: 312px;
+height: 173px;
+left: 32.51px;
+top: 231.62px;
+
+background: rgba(196, 196, 196, 0.18);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
+
+
+/* Ask from professionals */
+
+position: absolute;
+width: 291px;
+height: 38px;
+left: 32.51px;
+top: 188.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+
+text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
+
+
+/* Where does the water come from that you use on your crops? How do you know the quality of the water? */
+
+position: absolute;
+width: 282px;
+height: 150px;
+left: 46.51px;
+top: 235.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Rectangle 88 */
+
+position: absolute;
+width: 98px;
+height: 47px;
+left: 246.51px;
+top: 419.62px;
+
+background: #00FA37;
+border-radius: 20px;
+
+
+/* Send */
+
+position: absolute;
+width: 68px;
+height: 40px;
+left: 261.51px;
+top: 422.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 37px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 375px;
+height: 78px;
+left: 0.51px;
+top: 37.62px;
+
+background: rgba(0, 215, 125, 0.34);
+
+
+/* Services */
+
+position: absolute;
+width: 133px;
+height: 45px;
+left: 120.51px;
+top: 54.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+color: #1458C7;
+
+
+
+/* Do you use herbicides? If not, how do you control weeds? */
+
+position: absolute;
+width: 321px;
+height: 54px;
+left: 32.51px;
+top: 594.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+
+color: #898080;
+
+
+
+/* What kind of soil do you use? */
+
+position: absolute;
+width: 265px;
+height: 27px;
+left: 32.51px;
+top: 666.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #898080;
+
+
+
+/* Rectangle 67 */
+
+position: absolute;
+width: 187.5px;
+height: 30px;
+left: 0.51px;
+top: 117.62px;
+
+
+
+/* Rectangle 68 */
+
+position: absolute;
+width: 188px;
+height: 43px;
+left: 188.51px;
+top: 115.62px;
+
+
+
+/* Get Help */
+
+position: absolute;
+width: 151px;
+height: 31px;
+left: 27.51px;
+top: 121.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+color: #008001;
+
+
+
+/* Market */
+
+position: absolute;
+width: 102px;
+height: 36px;
+left: 231.51px;
+top: 118.62px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #10A216;
+

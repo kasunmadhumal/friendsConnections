@@ -1,0 +1,73 @@
+*     {
+  margin: 0; padding: 0;
+  
+  
+}
+
+a{text-decoration: none;}
+
+ .wrapper{
+    margin-left: 400px;
+     width: 500px;
+     height: 600px;
+	 background:rgb(197, 196, 193);
+	 border-radius: 20px;
+    
+ }
+
+.maintopics{
+	background-color: green;
+	text-align:center;
+	
+}
+.maintopics p{
+	color: red;
+	
+}
+
+.dataEntering{
+	margin-top: 100px;
+	font-size: 20px;
+}
+
+.mail{
+	margin-left: 125px;
+	margin-top: 20px;
+	width: 450px;
+	height: 40px;
+}
+.uname{
+	margin-left: 65px;
+	margin-top: 20px;
+	width: 450px;
+	height: 40px;
+}
+.pword{
+	margin-left: 95px;
+	margin-top: 20px;
+	width: 450px;
+	height: 40px;
+}
+.cpassword{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 450px;
+	height: 40px;
+}
+.buttons{
+	margin-left: 180px;
+	margin-top: 20px;
+	width: 450px;
+	height: 10px;
+}
+
+.buttons #fsubmit{
+	margin-right: 20px;
+	width: 60px;
+	
+}
+
+.buttons #clearbutton{
+	width: 60px;
+}
+

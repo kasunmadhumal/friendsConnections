@@ -1,0 +1,17 @@
+* {
+    margin: 0; padding: 0;
+    text-align:center;
+    
+  }
+  
+  a{text-decoration: none;}
+  
+
+   .wrapper{
+      margin-left: 400px;
+      width: 500px;
+      height: 600px;
+       background:rgb(197, 196, 193);
+       border-radius: 20px;
+      
+   }
